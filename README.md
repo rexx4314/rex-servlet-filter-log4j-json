@@ -1,4 +1,4 @@
-# Servlet Filter for logging request and response in json format
+# Servlet Filter for log4j in json format
 ## Test version
 - openjdk 1.8
 - tomcat 8.5
